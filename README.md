@@ -1,8 +1,8 @@
 ## Enhanced React Tutorial Tic Tac Toe Game
 
-    Original URL from [React tutorial](https://reactjs.org/tutorial/tutorial.html).
+Original URL from [React tutorial](https://reactjs.org/tutorial/tutorial.html).
 
-    This version was enhanced by Jorge Garifuna <garfuna@mail.com> on 1/1/18 with the following:
+    This version was enhanced by Jorge Garifuna <garifuna@gmail.com> on 1/1/18 with the following:
 
     1) Display the location for each move in the format (col, row) in the move history list.
     2) Bold the currently selected item in the move list.
